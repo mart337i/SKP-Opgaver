@@ -1,0 +1,13 @@
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\bin\Debug\netcoreapp3.1\opgave_7.exe
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\bin\Debug\netcoreapp3.1\opgave_7.deps.json
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\bin\Debug\netcoreapp3.1\opgave_7.runtimeconfig.json
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\bin\Debug\netcoreapp3.1\opgave_7.runtimeconfig.dev.json
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\bin\Debug\netcoreapp3.1\opgave_7.dll
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\bin\Debug\netcoreapp3.1\opgave_7.pdb
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\obj\Debug\netcoreapp3.1\opgave_7.csprojAssemblyReference.cache
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\obj\Debug\netcoreapp3.1\opgave_7.AssemblyInfoInputs.cache
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\obj\Debug\netcoreapp3.1\opgave_7.AssemblyInfo.cs
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\obj\Debug\netcoreapp3.1\opgave_7.csproj.CoreCompileInputs.cache
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\obj\Debug\netcoreapp3.1\opgave_7.dll
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\obj\Debug\netcoreapp3.1\opgave_7.pdb
+C:\Users\mart3\Desktop\skp opgave\Skal-opagver\opgave7\opgave_7\obj\Debug\netcoreapp3.1\opgave_7.genruntimeconfig.cache
